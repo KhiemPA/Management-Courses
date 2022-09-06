@@ -1,0 +1,6 @@
+1. localhost/phpmyadmin
+2. Click new, course_db Collections
+3. Click course_db, table: course, colum 3 and GO
+4. id int 11(length) primarykey
+5. course varchar 100
+6. students int 11
